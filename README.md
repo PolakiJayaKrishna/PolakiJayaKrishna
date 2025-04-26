@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolakiJayaKrishna
 - 👀 I’m interested in ... **Coding**
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jayakrishna_jkyt
 - 😄 Pronouns: ...
