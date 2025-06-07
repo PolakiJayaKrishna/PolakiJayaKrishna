@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/4M34hi2.png" alt="banner" />
+
 
 <h1 align="center">Hi 👋, I'm JayaKrishna</h1>
 <h3 align="center">💡 Tech Enthusiast | 💻 Java Learner | 🌊 Dreamer</h3>
