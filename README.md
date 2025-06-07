@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm JayaKrishna</h1>
-<h3 align="center">💡 Tech Enthusiast | 💻 Java Learner | 🌊 Dreamer</h3>
+<div align="left">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech-Lover-blueviolet?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made_with-Passion-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anime_Fan-000000?style=for-the-badge&logo=Crunchyroll&logoColor=orange" />
+### Hi 👋, I'm JayaKrishna
+
+💡 Tech Enthusiast | 💻 Java Learner | 🌊 Dreamer
+
+<p>
+  <img src="https://img.shields.io/badge/TECH-TECH-purple?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOVER-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MADE%20WITH-PASSION-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANIME%20FAN-orange?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 </p>
 
 - 🔭 I’m currently working on web development and Java projects  
