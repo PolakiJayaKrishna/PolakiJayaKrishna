@@ -2,14 +2,15 @@
 
 ### Hi 👋, I'm JayaKrishna
 
-💡 Tech Enthusiast | 💻 Java Learner | 🌊 Dreamer
+💡 Tech Enthusiast &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Java Learner &nbsp;&nbsp;|&nbsp;&nbsp; 🌊 Dreamer
 
 <p>
-  <img src="https://img.shields.io/badge/TECH-TECH-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOVER-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TECH%20LOVER-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MADE%20WITH-PASSION-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ANIME%20FAN-orange?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 </p>
+
+
 
 - 🔭 I’m currently working on web development and Java projects  
 - 🌱 I’m learning **Java, HTML, CSS, and GitHub**  
