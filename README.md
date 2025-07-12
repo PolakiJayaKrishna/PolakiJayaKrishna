@@ -78,29 +78,7 @@
 - 📊 **Data Visualization for Business** – Forage  
   _Issued: July 4, 2025 • Domain: Business Analytics & Visualization_
 
-- ☁️ **Oracle Cloud Infrastructure 2023 AI Foundations Associate** – Oracle  
-  _Issued: Dec 22, 2023 • Valid until: Dec 22, 2025 • Domain: Cloud / AI Infrastructure_
-
-- 💻 **Virtual Internship in Web Development** – Bharat Intern  
-  _Duration: Aug 10 – Sep 10, 2023 • Domain: Web Development_
-
-- 🗄️ **Database Management Systems** – CodeChef  
-  _Completed: Apr 3, 2024 • Domain: Databases_
-
-- ⚙️ **Design and Analysis of Algorithms** – CodeChef  
-  _Completed: Oct 17, 2024 • Domain: Algorithms / DSA_
-
-- 🛡️ **Cyber Security Workshop** – ACM  
-  _Workshop focused on Cybersecurity concepts • Domain: Cybersecurity_
-
-- ⌨️ **Hour of Code Certificate** – Code.org  
-  _Introductory programming activity • Domain: Coding Awareness_
-
-- 🎓 **GeeksforGeeks Certificate** – Participation/Completion  
-  _Likely related to DSA or practice sessions • Domain: Programming_
-
-- 🌟 **NPTEL STAR Recognition** – NPTEL  
-  _Awarded for academic excellence in MOOCs • Domain: General_
+--ETC...
 
 📂 **View All Certificates Here:**  
 [🔗 Open Google Drive Folder](https://drive.google.com/drive/folders/102SZ-fa2uxM7h0-PNiT2Gk3qbbvR4fUE?usp=drive_link)
