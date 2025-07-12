@@ -20,10 +20,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-10a37f?logo=openai&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub Copilot-%20-4B8BBE?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?logo=x&logoColor=white&label=Grok&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub Copilot-4B8BBE?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?logo=x&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat-square" />
 </p>
+
 
 ---
 
