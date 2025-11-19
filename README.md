@@ -8,7 +8,7 @@ I use GitHub to store my practice code and track my progress.
 - Java  
 - SQL  
 - JDBC  
-- DSA (Basics)
+- DSA (Basics).
 
 ### Profiles
 - LinkedIn: https://linkedin.com/in/jayakrishna-polaki-807741268/
