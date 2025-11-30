@@ -92,7 +92,7 @@
 
 - 💼 Internship or job opportunities in **Java backend** or **software development**  
 - 🔍 Real-world or open-source projects to gain experience  
-- 🧑‍💻 Consistent coding practice and hands-on growth  
+- 🧑‍💻 Consistent coding practice and hands-on growth
 
 ---
 
