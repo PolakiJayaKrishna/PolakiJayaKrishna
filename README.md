@@ -61,7 +61,7 @@ Backend CRUD app demonstrating REST API structure, clean routing, and service-ba
 
 ### 📬 Contact
 
-📧 **polakijayakrishna@gmail.com**  
+📧 **Email:** polakijayakrishna@gmail.com
 🔗 **LinkedIn:** https://www.linkedin.com/in/polaki-jaya-krishna/
 
 
