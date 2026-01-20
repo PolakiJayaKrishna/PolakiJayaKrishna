@@ -48,7 +48,7 @@ I am a B.Tech Computer Science student (Batch 2026) specializing in **Backend En
 ---
 
 ### 📬 Contact
-📧 **Email:** polakijayakrishna@gmail.com   
-🔗 **LinkedIn:** [linkedin.com/in/polaki-jaya-krishna/](https://www.linkedin.com/in/polaki-jaya-krishna/) 
+📧 **Email:**  polakijayakrishna@gmail.com   
+🔗 **LinkedIn:**  [linkedin.com/in/polaki-jaya-krishna/](https://www.linkedin.com/in/polaki-jaya-krishna/) 
 
 <p align="center">🧠 <b>Learning. Building. Improving.</b></p>
