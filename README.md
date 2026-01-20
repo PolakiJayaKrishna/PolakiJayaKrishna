@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀About Me
 I am a B.Tech Computer Science student (Batch 2026) specializing in **Backend Engineering**. I focus on building robust APIs, mastering **Relational Data Modeling**, and implementing clean, service-oriented architecture.
 
 ---
