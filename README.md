@@ -2,7 +2,7 @@
   <h1>👋 Hi there, I'm Jaya Krishna Polaki</h1>
   <p><strong>Backend Developer | Java & Spring Boot Specialist | Final Year CSE Student</strong></p>
   
-  <a href="https://linkedin.com/in/polaki-jaya-krishna">
+  <a href="https://www.linkedin.com/in/jayakrishna-polaki/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:polakijayakrishna@gmail.com">
@@ -10,6 +10,9 @@
   </a>
   <a href="https://drive.google.com/drive/folders/1xnu5nRMr4Z2t4ymZpFM00o7CR8pB_eDD?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://leetcode.com/u/POLAKIJAYAKRISHNA/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
@@ -53,14 +56,6 @@ I am a B.Tech Computer Science student (Batch 2026) specializing in **Backend En
 
 ---
 
-## 📈 GitHub & LeetCode Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=PolakiJayaKrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PolakiJayaKrishna's GitHub Stats" />
-<img src="https://leetcode-stats-six.vercel.app/?username=PolakiJayaKrishna&theme=tokyonight" alt="LeetCode Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolakiJayaKrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -68,7 +63,7 @@ I am a B.Tech Computer Science student (Batch 2026) specializing in **Backend En
 | **[Employee Leave Management API](https://github.com/PolakiJayaKrishna/employee-leave-management-api)** | Production-grade REST API with JWT authentication, Spring Security, and role-based access control. Features atomic transactions, DTO pattern, and Swagger documentation. | ![Java](https://img.shields.io/badge/-Java-black?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) |
 | **[Task Manager API](https://github.com/PolakiJayaKrishna/task-manager-api)** | Backend CRUD application demonstrating REST API design principles and layered architecture with MySQL persistence. | ![Java](https://img.shields.io/badge/-Java-black?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) |
 
----
+--- 
 
 ## 💡 Core Competencies
 
